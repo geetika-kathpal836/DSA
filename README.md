@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geetika-kathpal836/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/geetika-kathpal836/DSA/tree/master/1765-map-of-highest-peak) |
+| [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
