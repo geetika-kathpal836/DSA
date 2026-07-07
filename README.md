@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/geetika-kathpal836/DSA/tree/master/0130-surrounded-regions) |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/geetika-kathpal836/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/geetika-kathpal836/DSA/tree/master/0802-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
