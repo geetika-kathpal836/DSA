@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length()==0) return 0;
         int maxlen=0;
         int l=0;
         int r=0;
@@ -10,13 +9,12 @@ class Solution {
             if(hash[s.charAt(r)]!=-1){
                 if(hash[s.charAt(r)]>=l){
                     l=hash[s.charAt(r)]+1;
-                    
                 }
             }
-            hash[s.charAt(r)]=r;
             int len=r-l+1;
+            maxlen=Math.max(maxlen,len);
+            hash[s.charAt(r)]=r;
             r++;
-            maxlen=Math.max(len,maxlen);
         }
         return maxlen;
     }
