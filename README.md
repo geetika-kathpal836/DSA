@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geetika-kathpal836/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Enumeration
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Segment Tree
 |  |
