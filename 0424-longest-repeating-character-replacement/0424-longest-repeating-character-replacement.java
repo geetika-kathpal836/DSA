@@ -11,10 +11,6 @@ class Solution {
             while(r-l+1-maxf>k){
                 hash[s.charAt(l)-'A']--;
                 l++;
-                maxf=0;
-                for(int i=0;i<25;i++){
-                    maxf=Math.max(maxf,hash[i]);
-                }
             }
             maxlen=Math.max(maxlen,r-l+1);
             r++;
