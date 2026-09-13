@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/geetika-kathpal836/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1446-consecutive-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1446-consecutive-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/geetika-kathpal836/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
