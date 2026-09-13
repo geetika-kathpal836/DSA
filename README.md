@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/geetika-kathpal836/DSA/tree/master/1765-map-of-highest-peak) |
 | [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/geetika-kathpal836/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
