@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/geetika-kathpal836/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/geetika-kathpal836/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
