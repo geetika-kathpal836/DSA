@@ -12,7 +12,7 @@ class Solution {
                 st.clear();
                 l=r;
                 st.add(s.charAt(r));
-                cnt+=(r-l+1)%1000000007;
+                cnt=(cnt+1)%1000000007;
             
             }
             r++;
