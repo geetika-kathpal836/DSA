@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1446-consecutive-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/geetika-kathpal836/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/geetika-kathpal836/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Backtracking
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
