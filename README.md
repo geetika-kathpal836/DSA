@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/geetika-kathpal836/DSA/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/geetika-kathpal836/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/geetika-kathpal836/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0210-course-schedule-ii) |
@@ -239,4 +240,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
