@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
