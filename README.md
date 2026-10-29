@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/geetika-kathpal836/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetika-kathpal836/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/geetika-kathpal836/DSA/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/geetika-kathpal836/DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/geetika-kathpal836/DSA/tree/master/0127-word-ladder) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/geetika-kathpal836/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -317,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
