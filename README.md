@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
