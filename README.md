@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetika-kathpal836/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/geetika-kathpal836/DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0126-word-ladder-ii) |
