@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/geetika-kathpal836/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/geetika-kathpal836/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/geetika-kathpal836/DSA/tree/master/0733-flood-fill) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/geetika-kathpal836/DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/geetika-kathpal836/DSA/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/geetika-kathpal836/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
