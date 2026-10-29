@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/geetika-kathpal836/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0542-01-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/geetika-kathpal836/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -334,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
