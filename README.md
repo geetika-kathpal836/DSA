@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/geetika-kathpal836/DSA/tree/master/0706-design-hashmap) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/geetika-kathpal836/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -349,9 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/geetika-kathpal836/DSA/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/geetika-kathpal836/DSA/tree/master/0706-design-hashmap) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
