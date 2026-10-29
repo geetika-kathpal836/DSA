@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/geetika-kathpal836/DSA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/geetika-kathpal836/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/geetika-kathpal836/DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/geetika-kathpal836/DSA/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
@@ -292,6 +295,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geetika-kathpal836/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/geetika-kathpal836/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
