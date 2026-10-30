@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/geetika-kathpal836/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/geetika-kathpal836/DSA/tree/master/0130-surrounded-regions) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/geetika-kathpal836/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0542-01-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0542-01-matrix) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/geetika-kathpal836/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/geetika-kathpal836/DSA/tree/master/0860-lemonade-change) |
 ## String
