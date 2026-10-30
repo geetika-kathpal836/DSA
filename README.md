@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/geetika-kathpal836/DSA/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/geetika-kathpal836/DSA/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/geetika-kathpal836/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/geetika-kathpal836/DSA/tree/master/0860-lemonade-change) |
 ## String
 |  |
 | ------- |
