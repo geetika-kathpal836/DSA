@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/geetika-kathpal836/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/geetika-kathpal836/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/geetika-kathpal836/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
