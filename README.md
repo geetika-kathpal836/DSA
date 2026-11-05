@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/geetika-kathpal836/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geetika-kathpal836/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/geetika-kathpal836/DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geetika-kathpal836/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
