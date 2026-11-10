@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geetika-kathpal836/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/geetika-kathpal836/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/geetika-kathpal836/DSA/tree/master/1765-map-of-highest-peak) |
 | [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/geetika-kathpal836/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/geetika-kathpal836/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/geetika-kathpal836/DSA/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/geetika-kathpal836/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/geetika-kathpal836/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/geetika-kathpal836/DSA/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1710-maximum-units-on-a-truck](https://github.com/geetika-kathpal836/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
