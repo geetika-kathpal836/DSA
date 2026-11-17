@@ -19,29 +19,30 @@ class Solution {
         if(root==null) return ans;
         Queue<TreeNode> q=new LinkedList<>();
         q.offer(root);
-        int index=0;
+        boolean even=true;
         while(!q.isEmpty()){
             int size=q.size();
-            List<Integer> ls=new ArrayList<>();
+            ArrayList<Integer> ls=new ArrayList<>();
             for(int i=0;i<size;i++){
-                TreeNode node=q.poll();
+                TreeNode node=q.peek();
+                q.poll();
                 ls.add(node.val);
-                if(node.left!=null){
-                    q.offer(node.left);
-                }
-                if(node.right!=null){
-                    q.offer(node.right);
-                }
+                if(node.left!=null) q.offer(node.left);
+                if(node.right!=null) q.offer(node.right);
             }
-            if(index%2==0) ans.add(ls);
+            if(even){
+                ans.add(ls);
+                even=false;
+            }
             else{
-                List<Integer> lsnew=new ArrayList<>();
+                ArrayList<Integer> rl=new ArrayList<>();
                 for(int i=ls.size()-1;i>=0;i--){
-                    lsnew.add(ls.get(i));
+                    rl.add(ls.get(i));
                 }
-                ans.add(lsnew);
+                ans.add(rl);
+                even=true;
             }
-            index++;
+            
         }
         return ans;
     }
