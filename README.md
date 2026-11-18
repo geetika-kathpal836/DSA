@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
 | ------- |
