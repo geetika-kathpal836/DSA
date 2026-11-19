@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/geetika-kathpal836/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/geetika-kathpal836/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geetika-kathpal836/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Bucket Sort
 |  |
 | ------- |
