@@ -24,8 +24,6 @@ class Solution {
         if(root==null) return;
         ArrayList<Integer> arrl=new ArrayList<>();
         preorder(root,arrl);
-        root.left=null;
-        root.right=null;
         TreeNode curr=root;
         if(arrl.size()>1){
             for(int i=0;i<arrl.size()-1;i++){
