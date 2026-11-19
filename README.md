@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/geetika-kathpal836/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/geetika-kathpal836/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/geetika-kathpal836/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geetika-kathpal836/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/geetika-kathpal836/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/geetika-kathpal836/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/geetika-kathpal836/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/geetika-kathpal836/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/geetika-kathpal836/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/geetika-kathpal836/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/geetika-kathpal836/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/geetika-kathpal836/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/geetika-kathpal836/DSA/tree/master/0706-design-hashmap) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/geetika-kathpal836/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/geetika-kathpal836/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
