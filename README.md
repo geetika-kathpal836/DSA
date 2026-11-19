@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/geetika-kathpal836/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/geetika-kathpal836/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/geetika-kathpal836/DSA/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/geetika-kathpal836/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/geetika-kathpal836/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/geetika-kathpal836/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/geetika-kathpal836/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/geetika-kathpal836/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/geetika-kathpal836/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/geetika-kathpal836/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/geetika-kathpal836/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/geetika-kathpal836/DSA/tree/master/2236-root-equals-sum-of-children) |
