@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/geetika-kathpal836/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/geetika-kathpal836/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/geetika-kathpal836/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/geetika-kathpal836/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/geetika-kathpal836/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -479,5 +481,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/geetika-kathpal836/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/geetika-kathpal836/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
