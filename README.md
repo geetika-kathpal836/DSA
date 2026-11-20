@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/geetika-kathpal836/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/geetika-kathpal836/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geetika-kathpal836/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/geetika-kathpal836/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/geetika-kathpal836/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/geetika-kathpal836/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/geetika-kathpal836/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/geetika-kathpal836/DSA/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetika-kathpal836/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/geetika-kathpal836/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/geetika-kathpal836/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/geetika-kathpal836/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/geetika-kathpal836/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -473,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/geetika-kathpal836/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/geetika-kathpal836/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
