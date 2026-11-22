@@ -32,8 +32,7 @@ class Solution {
                 if(root.right!=null && root.right.val==key){
                     root.right=helper(root.right);
                     break;
-                }
-                else{
+                }else{
                     root=root.right;
                 }
             }
@@ -43,13 +42,13 @@ class Solution {
     public TreeNode helper(TreeNode root){
         if(root.left==null) return root.right;
         if(root.right==null) return root.left;
-        
-            TreeNode tobeattached=root.right;
-            TreeNode rootfromwhichtobeattached=findlastrightchildofleft(root.left);
-            rootfromwhichtobeattached.right=tobeattached;
-            return root.left;
+        TreeNode tobeattached=root.right;
+        TreeNode tobeattachedfrom=lrol(root.left);
+        tobeattachedfrom.right=tobeattached;
+        return root.left;      // this is since we are attaching left se right if ulta hota toh we would have dont this last 2-3 lines opposite 
+
     }
-    public TreeNode findlastrightchildofleft(TreeNode root){
+    public TreeNode lrol(TreeNode root){
         while(root.right!=null){
             root=root.right;
         }
