@@ -1,49 +1,47 @@
-class Pair{
-    int first;
-    int second;
-    int third;
-    Pair(int first, int second, int third){
-        this.first=first;
-        this.second=second;
-        this.third=third;
-    }
-}
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int[][] vis=new int[grid.length][grid[0].length];
+        int counttime=0;
+        int[] dr={-1,0,+1,0};
+        int[] dc={0,1,0,-1};
+        int[][] finalarr=grid;
         Queue<Pair> q=new LinkedList<>();
-        int[] delrow={0,-1,0,1};
-        int[] delcol={-1,0,1,0};
-        int cntfresh=0;
         for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
+            for(int j=0;j<grid[i].length;j++){
                 if(grid[i][j]==2){
-                    vis[i][j]=2;
                     q.offer(new Pair(i,j,0));
                 }
-                else if(grid[i][j]==1){
-                    cntfresh++;
-                }
             }
         }
-        int cntOfFreshTurnedRotten=0;
-        int time=0;
         while(!q.isEmpty()){
-            int r=q.peek().first;
-            int c=q.peek().second;
-            int t=q.peek().third;
+            int r=q.peek().row;
+            int c=q.peek().col;
+            int time=q.peek().time;
+            counttime=Math.max(time,counttime);
             q.poll();
             for(int i=0;i<4;i++){
-                int nrow=r+delrow[i];
-                int ncol=c+delcol[i];
-                time=Math.max(time,t);
-                if(nrow>=0 && nrow<grid.length && ncol>=0 && ncol<grid[0].length && grid[nrow][ncol]==1 && vis[nrow][ncol]==0){
-                    cntOfFreshTurnedRotten++;
-                    vis[nrow][ncol]=2;
-                    q.offer(new Pair(nrow,ncol,t+1));
+                int nrow=r+dr[i];
+                int ncol=c+dc[i];
+                if(nrow>=0 && nrow<grid.length && ncol>=0 && ncol<grid[0].length && grid[nrow][ncol]==1 && finalarr[nrow][ncol]!=2){
+                    q.offer(new Pair(nrow,ncol,time+1));
+                    finalarr[nrow][ncol]=2;
                 }
             }
         }
-        return (cntfresh==cntOfFreshTurnedRotten)?time:-1;
+        for(int i=0;i<finalarr.length;i++){
+            for(int j=0;j<finalarr[0].length;j++){
+                if(finalarr[i][j]==1) return -1;
+            }
+        }
+        return counttime;
+    }
+}
+class Pair{
+    int row;
+    int col;
+    int time;
+    Pair(int row, int col, int time){
+        this.row=row;
+        this.col=col;
+        this.time=time;
     }
 }
