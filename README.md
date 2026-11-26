@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/geetika-kathpal836/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/geetika-kathpal836/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2761-prime-pairs-with-target-sum](https://github.com/geetika-kathpal836/DSA/tree/master/2761-prime-pairs-with-target-sum) |
+| [3360-stone-removal-game](https://github.com/geetika-kathpal836/DSA/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/geetika-kathpal836/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/geetika-kathpal836/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/geetika-kathpal836/DSA/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/geetika-kathpal836/DSA/tree/master/3360-stone-removal-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/geetika-kathpal836/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/geetika-kathpal836/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
