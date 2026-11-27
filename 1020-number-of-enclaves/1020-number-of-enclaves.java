@@ -1,56 +1,47 @@
 class Solution {
     public int numEnclaves(int[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
-        int[][] vis=new int[n][m];
-        int[] delrow={0,-1,0,1};
-        int[] delcol={-1,0,1,0};
-        for(int i=0;i<n;i++){
-            if(grid[i][0]==1 && vis[i][0]==0){
-                dfs(i,0,n,m,vis,grid,delrow,delcol);
-            }
-        }
-        for(int i=0;i<n;i++){
-            if(grid[i][m-1]==1 && vis[i][m-1]==0){
-                dfs(i,m-1,n,m,vis,grid,delrow,delcol);
-            }
-        }
-        for(int j=0;j<m;j++){
-            if(grid[0][j]==1 && vis[0][j]==0){
-                dfs(0,j,n,m,vis,grid,delrow,delcol);
-            }
-        }
-        for(int j=0;j<m;j++){
-            if(grid[n-1][j]==1 && vis[n-1][j]==0){
-                dfs(n-1,j,n,m,vis,grid,delrow,delcol);
-            }
-        }
-        int total1=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1){
-                    total1++;
+        int[][] visited=new int[grid.length][grid[0].length];
+        int[] delrow={-1,0,1,0};
+        int[] delcol={0,1,0,-1};
+        for(int i=0;i<grid.length;i++){
+            for(int j=0;j<grid[0].length;j++){
+                if(visited[i][j]==0 && grid[i][j]==1 && (i==0 || i==grid.length-1 || j==0 || j==grid[0].length-1)){
+                    bfs(i,j,visited,grid,delrow,delcol);
                 }
             }
         }
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(vis[i][j]==1){
-                    count++;
+        for(int i=0;i<grid.length;i++){
+            for(int j=0;j<grid[0].length;j++){
+                if(grid[i][j]==1 && visited[i][j]==0) count++;
+            }
+        }
+        return count;
+    }
+    public void bfs(int r, int c, int[][] visited, int[][] grid,int[]delrow, int[] delcol){
+        visited[r][c]=1;
+        Queue<Pair> q=new LinkedList<>();
+        q.offer(new Pair(r,c));
+        while(!q.isEmpty()){
+            int row=q.peek().row;
+            int col=q.peek().col;
+            q.poll();
+            for(int i=0;i<4;i++){
+                int drow=row+delrow[i];
+                int dcol=col+delcol[i];
+                if(drow>=0 && drow<grid.length && dcol>=0 && dcol<grid[0].length && visited[drow][dcol]==0 && grid[drow][dcol]==1){
+                    q.offer(new Pair(drow,dcol));
+                    visited[drow][dcol]=1;
                 }
             }
         }
-        return total1-count;
     }
-    public void dfs(int row,int col, int n, int m, int[][] vis, int[][] grid, int[] delrow, int[] delcol){
-        vis[row][col]=1;
-        for(int i=0;i<4;i++){
-            int nrow=row+delrow[i];
-            int ncol=col+delcol[i];
-            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                dfs(nrow,ncol,n,m,vis,grid,delrow,delcol);
-            }
-        }
+}
+class Pair{
+    int row;
+    int col;
+    Pair(int row,int col){
+        this.row=row;
+        this.col=col;
     }
 }
